@@ -49,7 +49,7 @@ app.use("/api/razorPay", razorPayRoutes);
 // }
 
 const __dirname = path.resolve();
-//in ec2 error came here at the formation of build path it was coming as studioAndStore/backend/frontend/index.html
+//in ec2 error came here at the formation of build path it was coming as MERNApp/backend/frontend/index.html
 app.use(express.static(path.join(__dirname, "../frontend/build")));
 app.get("*", (req, res) =>
   res.sendFile(path.resolve(__dirname, "../frontend", "build", "index.html"))
