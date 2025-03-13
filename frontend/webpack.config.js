@@ -7,5 +7,7 @@ module.exports = {
         },
       },
       disableHostCheck: true,
+      compress: true,
+  public: 'https://mernapp-1-9mwd.onrender.com/' // That solved it
     },
   };
