@@ -1,0 +1,34 @@
+.shipping-screen-wrapper {
+  margin: auto;
+  margin-top: 72px;
+  width: 80%;
+}
+
+.shipping-flex-container {
+  display: flex;
+}
+
+.shipping-flex-address {
+  width: 70%;
+}
+
+.shipping-flex-order-summary {
+  width: 30%;
+}
+
+.shipping-flex-address .ant-btn {
+  border-radius: 0px;
+  /* transition: none; */
+}
+
+.shipping-flex-address .ant-btn-default:hover {
+  color: black !important;
+  border-color: orange !important;
+  border: 1.8px solid orange;
+  /* transition: none; */
+}
+
+.shipping-topBanner{
+  height: 180px;
+  background-color: rgb(98, 116, 234);
+}

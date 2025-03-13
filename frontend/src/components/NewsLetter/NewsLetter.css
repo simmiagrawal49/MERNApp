@@ -1,0 +1,13 @@
+.newsletter-bg {
+  height: 220px;
+  background: #e8f0e6;
+}
+
+.newsletter-wrapper {
+  margin: auto;
+  width: 80%;
+}
+
+.newsletter-content {
+  padding: 32px 0;
+}

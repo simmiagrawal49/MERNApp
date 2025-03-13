@@ -1,0 +1,36 @@
+.profile-wrapper {
+  margin: auto;
+  /* text-align: start; */
+  width: 80%;
+  margin-top: 100px;
+}
+
+.profile-wrapper .ant-btn {
+  font-weight: 700;
+}
+
+.profile-wrapper .ant-btn-default {
+  box-shadow: none;
+  border-color: white;
+  text-decoration: underline;
+}
+
+.profile-wrapper .ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover {
+  border-color: white;
+  font-weight: 700;
+  color: black;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+}
+
+.profile-wrapper .ant-typography {
+  font-size: 16px;
+}
+
+.profile-order-history {
+  margin-top: 40px;
+}
+
+.profile-logout {
+  margin-top: 8px;
+}

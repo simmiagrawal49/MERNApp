@@ -1,0 +1,37 @@
+.order-page-wrapper {
+  margin: auto;
+  margin-top: 72px;
+  width: 80%;
+}
+
+.order-flex-container {
+  display: flex;
+}
+
+.order-flex-review {
+  width: 70%;
+}
+
+.order-flex-summary {
+  width: 30%;
+}
+
+.order-review-items {
+  margin-top: 50px;
+}
+
+.order-paid-status {
+  margin-top: 30px;
+}
+
+.order-delivered-status {
+  margin-top: 30px;
+}
+
+.orderScreen-orderSummary {
+  margin-bottom: 40px;
+}
+
+.orderScreen-orderSummary > div {
+  padding: 4px;
+}

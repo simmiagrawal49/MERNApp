@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43f9ddec.css",
+    "main.js": "/static/js/main.9d9f8a74.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/pattern2.jpg": "/static/media/pattern2.27ee3869c3c9fe67b043.jpg",
+    "static/media/nature4.avif": "/static/media/nature4.bfc13882ca59b3601bcb.avif",
+    "static/media/me.jpeg": "/static/media/me.dd97678b33b1e28ee127.jpeg",
+    "static/media/florals3.avif": "/static/media/florals3.f3512941b47e880c0b00.avif",
+    "static/media/banner3.png": "/static/media/banner3.8c4e7a380b05f112ca61.png",
+    "static/media/abstract3.jpg": "/static/media/abstract3.29974749115d13a31e6e.jpg",
+    "static/media/flamingo.jpg": "/static/media/flamingo.ca2ae0c457a0b15d1918.jpg",
+    "static/media/studio.jpg": "/static/media/studio.3f9dfefbb06573cd8181.jpg",
+    "static/media/soldOut.jpg": "/static/media/soldOut.35acbb7d07affd195efc.jpg",
+    "index.html": "/index.html",
+    "main.43f9ddec.css.map": "/static/css/main.43f9ddec.css.map",
+    "main.9d9f8a74.js.map": "/static/js/main.9d9f8a74.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43f9ddec.css",
+    "static/js/main.9d9f8a74.js"
+  ]
+}

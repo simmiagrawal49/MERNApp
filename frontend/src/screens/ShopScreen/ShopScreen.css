@@ -1,0 +1,99 @@
+.shop-product-layout {
+  margin: auto;
+  width: 80%;
+  margin-bottom: 80px;
+  margin-top: 40px;
+}
+
+.div-grid {
+  height: 80px;
+  background-color: blueviolet;
+}
+
+.shop-title {
+  justify-content: left;
+  display: inline-grid;
+}
+
+.shop-dropdowns {
+  justify-content: right;
+  display: flex;
+}
+
+.shop-collections {
+  float: left;
+  padding-right: 40px;
+  margin-bottom: 32px;
+  width: 100%;
+}
+
+.shop-sort {
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.shop-design-wrapper {
+  display: flex;
+}
+
+.shop-panel-wrapper {
+  /* display: flex; */
+  width: 25%;
+  float: left;
+}
+
+.shop-products-wrapper {
+  /* width: 75%; */
+  background-color: white;
+}
+
+.shop-product-layout button {
+  font-size: unset;
+  height: unset;
+  padding: 0px;
+  border-radius: 0px;
+}
+
+.shop-product-layout button > span {
+  padding: 0px;
+}
+
+.shop-product-layout .ant-btn-text:hover {
+  background-color: transparent !important;
+  /* color: rgb(28, 121, 184) !important; */
+}
+
+.shop-product-layout .ant-btn {
+  height: unset;
+  padding: 0px;
+}
+
+.shop-topBanner{
+  height: 380px;
+  background-color: rgb(248, 225, 203);
+}
+
+.shop-product-category{
+  /* background-color: blueviolet; */
+  height: 40px;
+  /* width: 100%; */
+  margin-right: 48px;
+}
+.shop-topBanner-inner{
+  margin: auto;
+  width: 80%;
+}
+
+.shop-product-layout .anticon svg {
+  width: 12px;
+  height: 12px;
+}
+
+.shop-shopAll{
+  font-size: 64px;
+  padding-top: 60px;
+}
+
+.shop-shopAll-image{
+  padding: 40px;
+}

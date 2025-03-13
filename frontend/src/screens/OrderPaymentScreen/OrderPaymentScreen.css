@@ -1,0 +1,37 @@
+.OrderPaymentScreen-page-wrapper {
+  margin: auto;
+  margin-top: 72px;
+  width: 80%;
+}
+
+.OrderPaymentScreen-flex-container {
+  display: flex;
+}
+
+.OrderPaymentScreen-flex-review {
+  width: 70%;
+}
+
+.OrderPaymentScreen-flex-summary {
+  width: 30%;
+}
+
+.OrderPaymentScreen-review-items {
+  margin-top: 50px;
+}
+
+.OrderPaymentScreen-paid-status {
+  margin-top: 30px;
+}
+
+.OrderPaymentScreen-delivered-status {
+  margin-top: 30px;
+}
+
+.OrderPaymentScreen-orderSummary {
+  margin-bottom: 40px;
+}
+
+.OrderPaymentScreen-orderSummary > div {
+  padding: 4px;
+}

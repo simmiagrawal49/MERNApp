@@ -1,0 +1,61 @@
+.footer-bg {
+  /* background-image: linear-gradient(white, rgb(187, 190, 208)); */
+  background-color: rgb(250, 250, 251);
+}
+
+.footer-wrapper {
+  margin: auto;
+  padding-top: 20px;
+  width: 80%;
+}
+
+.footer-wrapper button {
+  font-size: unset;
+  height: unset;
+  padding: 0px;
+  border-radius: 0px;
+}
+
+.footer-wrapper button > span {
+  padding: 0px;
+}
+
+.footer-heading {
+  font-weight: 700;
+  line-height: 60px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.footer-links a {
+  color: rgb(13, 26, 38);
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: rgb(28, 121, 184);
+  text-decoration: underline;
+}
+
+.footer-copyright {
+  margin-top: 16px;
+}
+
+.footer-wrapper .ant-btn-text:hover {
+  background-color: transparent !important;
+  color: rgb(28, 121, 184) !important;
+}
+
+.footer-wrapper .ant-btn {
+  height: unset;
+  padding: 0px;
+}
+
+.footer-socialMedia-icon {
+  padding-left: 8px;
+}
+
+.footer-socialMedia svg {
+  height: 24px;
+  width: 24px;
+}

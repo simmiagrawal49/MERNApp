@@ -1,0 +1,11 @@
+.orderSummary-wrapper > div {
+  padding: 4px;
+}
+
+.orderSummary-title {
+  margin-bottom: 0.5em;
+  color: rgba(0, 0, 0, 0.88);
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 1.2666666666666666;
+}
