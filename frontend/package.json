@@ -2,8 +2,6 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://mernapp-1-9mwd.onrender.com/",
-  "homepage": "https://mernapp-1-9mwd.onrender.com/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/jest-dom": "^5.16.5",
